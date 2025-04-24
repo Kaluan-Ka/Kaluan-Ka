@@ -2,7 +2,7 @@
 
 Welcome to my Github! You can check out this README in other languages too:
 
-- [Ler em Português](README_PT.md)
+- [Ler em Português](README.md)
 - [Leer en Español](README_ES.md)
 
 ---
