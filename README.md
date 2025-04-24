@@ -1,43 +1,37 @@
 # Kaluan Kaeté - Data Analytics
 
-Sou **Kaluan Kaeté**, migrando para a área de **Data Analytics**, motivado pela curiosidade em explorar dados e transformá-los em soluções estratégicas. Tenho competências em ferramentas como **Power BI**, **SQL** e **SAS**, além de experiência prática em tratamento, análise e visualização de dados.
+Welcome to my Github! You can check out this README in other languages too:
+
+- [Ler em Português](README_PT.md)
+- [Leer en Español](README_ES.md)
 
 ---
 
-## 🙋‍♂️ Sobre Mim
+## About Me
 
-- **Apaixonado por dados**: Dedico-me a criar relatórios interativos e painéis no **Power BI** que facilitam a compreensão de métricas e impulsionam decisões baseadas em dados.
-- **Objetivo profissional**: Estou em busca da minha primeira oportunidade como **Data Analyst Júnior**, **Estagiário em Analytics** ou em posições iniciais relacionadas a **BI e análise de dados**.
-- **Formação complementar**: Sou formado em Jornalismo, com ampla experiência em produção audiovisual, trazendo uma perspectiva criativa e comunicativa para os dados.
-- **Localização**: Atualmente moro em Buenos Aires, Argentina.
+I am **Kaluan Kaeté**, transitioning to the field of **Data Analytics**, driven by a curiosity to explore data and transform it into strategic solutions. I have skills in tools such as **Power BI**, **SQL**, and **SAS**, with hands-on experience in data processing, analysis, and visualization.
 
----
-
-## 💻 Habilidades
-
-- **Power BI**: Criação de relatórios interativos e visualizações.
-- **SQL**: Manipulação e consulta de bancos de dados.
-- **SAS**: Análise avançada de dados.
-- **Python (Básico)**: Scripts para análise de dados.
+- **Passionate about data**: I am dedicated to creating interactive reports and dashboards in **Power BI** that facilitate the understanding of metrics and drive data-driven decisions.
+- **Professional goal**: I am seeking my first opportunity as a **Junior Data Analyst**, **Analytics Intern**, or in entry-level positions related to **BI and data analysis**.
+- **Complementary background**: I have a degree in Journalism and extensive experience in audiovisual production, bringing a creative and communicative perspective to data.
+- **Location**: Currently based in Buenos Aires, Argentina.
 
 ---
 
-## 📫 Contato
+## Skills
+
+- **Power BI**: Creating interactive reports and dashboards.
+- **SQL**: Database manipulation and querying.
+- **SAS**: Advanced data analysis.
+- **Python (Basic)**: Scripting for data analysis.
+
+---
+
+## Contact
 
 - **Email**: [kaluansilva@gmail.com](mailto:kaluansilva@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-Kaluan%20Kaeté-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaluan-kaeté-b737251a5)
 
 ---
 
-## 🎯 Objetivos
-
-Estou aberto a oportunidades para:
-
-- **Data Analyst Júnior**
-- **Estágio em Analytics**
-- **Posições iniciais em BI e Análise de Dados**
-
----
-
-Obrigado por visitar meu portfólio! Caso tenha interesse em saber mais ou colaborar em projetos, não hesite em entrar em contato. 😊
-
+Thank you for visiting my portfolio! If you'd like to know more or collaborate on projects, feel free to reach out. 😊
