@@ -1,24 +1,34 @@
-# Kaluan Kaeté - Análisis de Datos
+# 🚀 Kaluan Kaeté  
+### Analista de Soluciones de IA | IA Aplicada • Automatización • n8n • Power BI • SQL
 
-Soy **Kaluan Kaeté**, en proceso de transición al área de **Análisis de Datos**, movido por la curiosidad de explorar datos y transformarlos en soluciones estratégicas. Tengo habilidades en herramientas como **Power BI**, **SQL** y **SAS**, con experiencia práctica en el tratamiento, análisis y visualización de datos.
+Diseño y construyo **soluciones impulsadas por IA** que automatizan flujos de trabajo, integran sistemas y transforman datos en información accionable. Mi trabajo combina analítica, lógica de negocio, automatización low-code y la implementación práctica de IA — especialmente con **n8n**, **agentes basados en LLM** y flujos integrados con APIs.
 
----
-
-## 🙋‍♂️ Sobre Mí
-
-- **Apasionado por los datos**: Me dedico a crear informes interactivos y paneles en **Power BI** que facilitan la comprensión de métricas y fomentan decisiones basadas en datos.
-- **Objetivo profesional**: Estoy buscando mi primera oportunidad como **Analista de Datos Junior**, **Practicante en Analytics**, o en posiciones iniciales relacionadas con **BI y análisis de datos**.
-- **Formación complementaria**: Soy licenciado en Periodismo, con amplia experiencia en producción audiovisual, aportando una perspectiva creativa y comunicativa a los datos.
-- **Ubicación**: Actualmente resido en Buenos Aires, Argentina.
+Actualmente estoy desarrollando un portafolio enfocado en **automatización con IA**, **data analytics** y casos de uso reales aplicados a negocio.
 
 ---
 
-## 💻 Habilidades
+## 👨‍💻 Sobre mí
 
-- **Power BI**: Creación de informes interactivos y paneles.
-- **SQL**: Manipulación y consulta de bases de datos.
-- **SAS**: Análisis avanzado de datos.
-- **Python (Básico)**: Scripts para análisis de datos.
+- **Creador de Soluciones de IA:** Desarrollo soluciones que combinan automatización, procesamiento de datos, orquestación de APIs y razonamiento con LLMs.  
+- **Especialista en n8n:** Desarrollo de automatizaciones complejas, integraciones, custom nodes y workflows con agentes.  
+- **Experiencia en Análisis de Datos:** Manejo de Power BI, SQL y modelado básico de datos para soportar pipelines analíticos.  
+- **Comunicación clara:** Antecedente en periodismo y producción audiovisual — convierto sistemas complejos en explicaciones simples.  
+- Actualmente viviendo en **Buenos Aires, Argentina**.
+
+---
+
+## 🧠 Habilidades y Tecnologías
+
+### **IA & Automatización**
+- n8n (workflows, integraciones, automatizaciones)
+- Agentes LLM (automatización de tareas, retrieval, decisión)
+- Orquestación e integración de APIs
+- Prompt engineering para casos operativos
+
+### **Datos & Analytics**
+- SQL (consultas, joins, modelado)
+- Power BI (dashboards,
+
 
 ---
 
