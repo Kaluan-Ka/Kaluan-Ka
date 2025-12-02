@@ -1,29 +1,54 @@
-# Kaluan Kaeté - Data Analytics
+# 🚀 Kaluan Kaeté  
+### Data & AI Solutions Analyst | Applied AI • Automation • n8n • Power BI • SQL
 
-Welcome to my Github! You can check out this README in other languages too:
+[Ler em portugues](README_PT.MD)
+[Leer en español(README_ES.MD)
 
-- [Ler em Português](README_PT.md)
-- [Leer en Español](README_ES.md)
+I design and build **AI-driven solutions** that automate workflows, integrate systems, and transform data into actionable intelligence. My work combines analytics, business logic, low-code automation and practical AI implementation — especially using **n8n**, **LLM-based agents**, and **cloud-integrated workflows**.
 
----
-
-## About Me
-
-I am **Kaluan Kaeté**, transitioning to the field of **Data Analytics**, driven by a curiosity to explore data and transform it into strategic solutions. I have skills in tools such as **Power BI**, **SQL**, and **SAS**, with hands-on experience in data processing, analysis, and visualization.
-
-- **Passionate about data**: I am dedicated to creating interactive reports and dashboards in **Power BI** that facilitate the understanding of metrics and drive data-driven decisions.
-- **Professional goal**: I am seeking my first opportunity as a **Junior Data Analyst**, **Analytics Intern**, or in entry-level positions related to **BI and data analysis**.
-- **Complementary background**: I have a degree in Journalism and extensive experience in audiovisual production, bringing a creative and communicative perspective to data.
-- **Location**: Currently based in Buenos Aires, Argentina.
+I am currently developing a portfolio focused on **AI automation**, **data analytics**, and **real business use cases**.
 
 ---
 
-## Skills
+## 👨‍💻 About Me
 
-- **Power BI**: Creating interactive reports and dashboards.
-- **SQL**: Database manipulation and querying.
-- **SAS**: Advanced data analysis.
-- **Python (Basic)**: Scripting for data analysis.
+- **AI Solutions Builder:** I create solutions that combine automation, data processing, API orchestration and LLM reasoning.  
+- **n8n Specialist:** Development of multi-step automations, integrations, custom nodes and agentic workflows.  
+- **Data Analyst Background:** Experience with Power BI, SQL and data modeling to support analytics pipelines.  
+- **Strong Communication Skills:** Former journalist and audiovisual producer — I translate complex systems into clear, human explanations.  
+- **Based in Buenos Aires, Argentina.**
+
+---
+
+## 🧠 Skills & Technologies
+
+### **AI & Automation**
+- n8n (workflows, integrations, automations)
+- LLM Agents (task automation, retrieval workflows, decision systems)
+- API orchestration & integration logic
+- Prompt engineering for operational use cases
+
+### **Data & Analytics**
+- SQL (queries, joins, modeling)
+- Power BI (Dashboards, DAX basics, ETL with Power Query)
+- Python (beginner – analysis & lightweight automations)
+
+### **Other Tools**
+- Zapier, Make (when required)
+- Git & GitHub
+- Basic cloud (GCP/AWS) for automation deployments
+
+---
+
+## 📂 What You’ll Find in This GitHub
+
+I am currently building a portfolio focused on:
+
+- **AI-Enhanced n8n Projects**  
+  (agents, RAG workflows, intelligent routing, multi-tool automations)
+
+- **Practical Business Automations**  
+  CRM updates, reporting pipelines, lead qualification, workflow
 
 ---
 
