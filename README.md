@@ -1,8 +1,9 @@
 # 🚀 Kaluan Kaeté  
 ### Data & AI Solutions Analyst | Applied AI • Automation • n8n • Power BI • SQL
 
-[Ler em portugues](README_PT.MD)
-[Leer en español(README_ES.MD)
+[Ler em portugues](README_PT.md)
+
+[Leer en español(README_ES.md)
 
 I design and build **AI-driven solutions** that automate workflows, integrate systems, and transform data into actionable intelligence. My work combines analytics, business logic, low-code automation and practical AI implementation — especially using **n8n**, **LLM-based agents**, and **cloud-integrated workflows**.
 
