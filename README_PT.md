@@ -1,24 +1,51 @@
-# Kaluan Kaeté - Analista de Dados
+# 🚀 Kaluan Kaeté  
+### Data & AI Solutions Analyst | IA Aplicada • n8n • Power BI • SQL
 
-Sou **Kaluan Kaeté**, migrando para a área de **Data Analytics**, motivado pela curiosidade em explorar dados e transformá-los em soluções estratégicas. Tenho competências em ferramentas como **Power BI**, **SQL** e **SAS**, além de experiência prática em tratamento, análise e visualização de dados.
+Atuo criando **soluções de IA aplicada** para operações reais, integrando modelos e agentes a fluxos de trabalho em **n8n**, APIs, bancos de dados e ferramentas de negócio. Meu foco é desenvolver sistemas que combinam **IA + automação + análise de dados**, trazendo eficiência e clareza operacional para empresas.
 
----
+Transformo processos manuais em pipelines inteligentes, conectados e documentados — sempre com governança, estrutura e mensuração.
 
-## 🙋‍♂️ Sobre Mim
-
-- **Apaixonado por dados**: Dedico-me a criar relatórios interativos e painéis no **Power BI** que facilitam a compreensão de métricas e impulsionam decisões baseadas em dados.
-- **Objetivo profissional**: Estou em busca da minha primeira oportunidade como **Data Analyst Júnior**, **Estagiário em Analytics** ou em posições iniciais relacionadas a **BI e análise de dados**.
-- **Formação complementar**: Sou formado em Jornalismo, com ampla experiência em produção audiovisual, trazendo uma perspectiva criativa e comunicativa para os dados.
-- **Localização**: Atualmente moro em Buenos Aires, Argentina.
+Minha formação em jornalismo fortalece minha capacidade de **explicar decisões da IA, documentar processos complexos e traduzir resultados para equipes não técnicas.**
 
 ---
 
-## 💻 Habilidades
+## 🤖 O que faço hoje
 
-- **Power BI**: Criação de relatórios interativos e visualizações.
-- **SQL**: Manipulação e consulta de bancos de dados.
-- **SAS**: Análise avançada de dados.
-- **Python (Básico)**: Scripts para análise de dados.
+- **Desenvolvo soluções de IA prática**, conectando agentes (OpenAI, Anthropic etc.) ao n8n, APIs, bancos de dados e sistemas internos.  
+- Crio **workflows inteligentes** que usam IA para tomada de decisão, classificação, enriquecimento de dados, triagem e análise.  
+- Estruturo pipelines e dashboards em **Power BI** para visibilidade operacional e insights acionáveis.  
+- Desenho fluxos híbridos entre IA + automação + dados, totalmente documentados e replicáveis.  
+- Implemento integrações que permitem que empresas usem IA de forma segura, útil e escalável.
+
+---
+
+## 🧰 Habilidades Técnicas
+
+### **IA Aplicada**
+- Design de soluções de IA  
+- Agentes e assistants para operações  
+- IA para classificação, resumo, análise e tomada de decisão  
+- Integração de modelos com APIs, CRMs e bancos de dados  
+- Instrumentação e avaliação de outputs de IA  
+
+### **Automação & No-Code**
+- n8n (principal ferramenta)  
+- Orquestração de dados  
+- ETL, APIs, Webhooks  
+- Sistematização de processos operacionais  
+
+### **Data Analytics**
+- Power BI (modelagem, DAX, storytelling)  
+- SQL (consultas, estruturação, limpeza)  
+- Python básico para análise  
+- Fundamentos estatísticos aplicados
+
+### **Soft Skills Diferenciais**
+- Documentação clara  
+- Comunicação técnica acessível  
+- Estruturação de processos  
+- Explicabilidade de IA  
+- Raciocínio analítico
 
 ---
 
