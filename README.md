@@ -5,19 +5,12 @@
 
 [Leer en Español](README_ES.md)
 
-I design and build **AI-driven solutions** that automate workflows, integrate systems, and transform data into actionable intelligence. My work combines analytics, business logic, low-code automation and practical AI implementation — especially using **n8n**, **LLM-based agents**, and **cloud-integrated workflows**.
-
-I am currently developing a portfolio focused on **AI automation**, **data analytics**, and **real business use cases**.
-
----
-
 ## 👨‍💻 About Me
-
-- **AI Solutions Builder:** I create solutions that combine automation, data processing, API orchestration and LLM reasoning.  
-- **n8n Specialist:** Development of multi-step automations, integrations, custom nodes and agentic workflows.  
-- **Data Analyst Background:** Experience with Power BI, SQL and data modeling to support analytics pipelines.  
-- **Strong Communication Skills:** Former journalist and audiovisual producer — I translate complex systems into clear, human explanations.  
-- **Based in Buenos Aires, Argentina.**
+- BI Analyst with hands-on experience in *Power BI, SQL, and process automation*, working on the development, maintenance, and enhancement of *dashboards, reports, and operational indicators*.
+- Experience in *data cleaning, validation, and standardization*, integration of multiple data sources, and direct support to business areas, translating data into *actionable insights for decision-making.*
+- Analytical, organized, and continuous-improvement-oriented profile, with strong interest in advancing in ETL/ELT, dimensional modeling, and modern data platforms.
+- **n8n Specialist:** Development of multi-step automations, integrations, custom nodes and agentic workflows.
+- Based in Buenos Aires, Argentina.
 
 ---
 
@@ -34,11 +27,9 @@ I am currently developing a portfolio focused on **AI automation**, **data analy
 - Power BI (Dashboards, DAX basics, ETL with Power Query)
 - Python (beginner – analysis & lightweight automations)
 
-### **Other Tools**
-- Zapier, Make (when required)
-- Git & GitHub
-- Basic cloud (GCP/AWS) for automation deployments
+### 📊 Estatísticas
 
+![GitHub Card](https://githubcard.com/Kaluan-Ka.svg)
 ---
 
 ## 📂 What You’ll Find in This GitHub
@@ -50,6 +41,9 @@ I am currently building a portfolio focused on:
 
 - **Practical Business Automations**  
   CRM updates, reporting pipelines, lead qualification, workflow
+
+- **Practical Data Analyst project**
+  ETL, Data Quality, Dashboards, Power BI, SQL, Python
 
 ---
 
