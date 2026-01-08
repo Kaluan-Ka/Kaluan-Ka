@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 - BI Analyst with hands-on experience in **Power BI, SQL, and process automation**, working on the development, maintenance, and enhancement of **dashboards, reports, and operational indicators**.
-- Experience in **data cleaning, validation, and standardization**, integration of multiple data sources, and direct support to business areas, translating data into *actionable insights for decision-making.
+- Experience in **data cleaning, validation, and standardization**, integration of multiple data sources, and direct support to business areas, translating data into **actionable insights for decision-making.**
 - Analytical, organized, and continuous-improvement-oriented profile, with strong interest in advancing in **ETL/ELT, dimensional modeling, and modern data platforms.**
 - **n8n Specialist:** Development of multi-step automations, integrations, custom nodes and agentic workflows.
 - Based in Buenos Aires, Argentina.
