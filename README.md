@@ -16,16 +16,16 @@
 
 ## 🧠 Skills & Technologies
 
+### **Data & Analytics**
+- SQL (queries, joins, modeling)
+- Power BI (Dashboards, DAX basics, ETL with Power Query)
+- Python (beginner – analysis & lightweight automations)
+
 ### **AI & Automation**
 - n8n (workflows, integrations, automations)
 - LLM Agents (task automation, retrieval workflows, decision systems)
 - API orchestration & integration logic
 - Prompt engineering for operational use cases
-
-### **Data & Analytics**
-- SQL (queries, joins, modeling)
-- Power BI (Dashboards, DAX basics, ETL with Power Query)
-- Python (beginner – analysis & lightweight automations)
 
 ### 📊 Estatísticas
 
