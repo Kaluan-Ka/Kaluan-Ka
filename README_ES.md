@@ -28,6 +28,21 @@
 
 ---
 
+## 📂 Qué vas a encontrar en este GitHub
+
+Actualmente estoy construyendo un portafolio enfocado en:
+
+**Proyectos en n8n potenciados con IA**
+(agentes, flujos RAG, ruteo inteligente, automatizaciones con múltiples herramientas)
+
+**Automatizaciones prácticas para negocios**
+Actualización de CRM, pipelines de reporting, calificación de leads, flujos de trabajo
+
+**Proyecto práctico de Analista de Datos**
+ETL, Calidad de Datos, Dashboards, Power BI, SQL, Python
+
+---
+
 ## 📫 Contacto
 
 - **Correo electrónico**: [kaluansilva@gmail.com](mailto:kaluansilva@gmail.com)
