@@ -1,34 +1,30 @@
 # 🚀 Kaluan Kaeté  
-### Analista de Soluciones de IA | IA Aplicada • Automatización • n8n • Power BI • SQL
-
-Diseño y construyo **soluciones impulsadas por IA** que automatizan flujos de trabajo, integran sistemas y transforman datos en información accionable. Mi trabajo combina analítica, lógica de negocio, automatización low-code y la implementación práctica de IA — especialmente con **n8n**, **agentes basados en LLM** y flujos integrados con APIs.
-
-Actualmente estoy desarrollando un portafolio enfocado en **automatización con IA**, **data analytics** y casos de uso reales aplicados a negocio.
-
----
+### Data Analyst | Power BI • SQL • Python | Analista de Soluciones de IA | IA Aplicada • Automatización • n8n
 
 ## 👨‍💻 Sobre mí
-
-- **Creador de Soluciones de IA:** Desarrollo soluciones que combinan automatización, procesamiento de datos, orquestación de APIs y razonamiento con LLMs.  
+- Analista de BI con experiencia práctica en **Power BI, SQL y automatización de procesos**, actuando en la construcción, mantenimiento y mejora de **dashboards, reportes e indicadores operativos.**
+- Experiencia en **tratamiento, validación y estandarización de datos**, integración de múltiples fuentes y soporte directo a las áreas de negocio, traduciendo datos en **insights accionables para la toma de decisiones.**
+- Perfil analítico, organizado y orientado a la mejora continua, con fuerte interés en evolucionar en **ETL/ELT, modelado dimensional y plataformas modernas de datos.**
 - **Especialista en n8n:** Desarrollo de automatizaciones complejas, integraciones, custom nodes y workflows con agentes.  
-- **Experiencia en Análisis de Datos:** Manejo de Power BI, SQL y modelado básico de datos para soportar pipelines analíticos.  
-- **Comunicación clara:** Antecedente en periodismo y producción audiovisual — convierto sistemas complejos en explicaciones simples.  
-- Actualmente viviendo en **Buenos Aires, Argentina**.
+- Actualmente viviendo en Buenos Aires, Argentina.
 
 ---
 
 ## 🧠 Habilidades y Tecnologías
 
+### **Datos & Analytics**
+- SQL (consultas, joins, modelado)
+- Power BI (dashboards)
+  
 ### **IA & Automatización**
 - n8n (workflows, integraciones, automatizaciones)
 - Agentes LLM (automatización de tareas, retrieval, decisión)
 - Orquestación e integración de APIs
 - Prompt engineering para casos operativos
 
-### **Datos & Analytics**
-- SQL (consultas, joins, modelado)
-- Power BI (dashboards,
+### 📊 Estatísticas
 
+![GitHub Card](https://githubcard.com/Kaluan-Ka.svg)
 
 ---
 
