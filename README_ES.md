@@ -41,6 +41,8 @@ Actualización de CRM, pipelines de reporting, calificación de leads, flujos de
 **Proyecto práctico de Analista de Datos**
 ETL, Calidad de Datos, Dashboards, Power BI, SQL, Python
 
+![Análisis de Perfomance de Ventas](https://github.com/Kaluan-Ka/PowerBI-Dashboard-Ventas/tree/main)
+
 ---
 
 ## 📫 Contacto
