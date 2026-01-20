@@ -52,11 +52,15 @@ Atualmente estou construindo um portfólio focado em:
 **Projetos em n8n potencializados por IA**
 (agentes, fluxos RAG, roteamento inteligente, automações com múltiplas ferramentas)
 
+![Orcamento Automatico](https://github.com/Kaluan-Ka/Orcamento-Automatico-N8N)
+
 **Automações práticas para negócios**
 Atualização de CRM, pipelines de relatórios, qualificação de leads, fluxos de trabalho
 
 **Projeto prático de Analista de Dados**
 ETL, Qualidade de Dados, Dashboards, Power BI, SQL, Python
+
+![Análise de Perfomance de Vendas](https://github.com/Kaluan-Ka/PowerBi-Dashboard-Vendas/tree/main)
 
 ---
 
